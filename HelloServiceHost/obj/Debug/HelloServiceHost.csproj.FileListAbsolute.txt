@@ -1,0 +1,11 @@
+C:\Users\I7\Documents\Visual Studio 2017\Projects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+C:\Users\I7\Documents\Visual Studio 2017\Projects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+C:\Users\I7\Documents\Visual Studio 2017\Projects\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+C:\Users\I7\Documents\Visual Studio 2017\Projects\HelloService\HelloServiceHost\bin\Debug\HelloService.dll
+C:\Users\I7\Documents\Visual Studio 2017\Projects\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+C:\Users\I7\Documents\Visual Studio 2017\Projects\HelloService\HelloServiceHost\bin\Debug\HelloService.dll.config
+C:\Users\I7\Documents\Visual Studio 2017\Projects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojAssemblyReference.cache
+C:\Users\I7\Documents\Visual Studio 2017\Projects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\I7\Documents\Visual Studio 2017\Projects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csproj.CopyComplete
+C:\Users\I7\Documents\Visual Studio 2017\Projects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+C:\Users\I7\Documents\Visual Studio 2017\Projects\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb
